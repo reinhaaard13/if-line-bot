@@ -1,142 +1,142 @@
 {
 	"monday": [
 		{
-			"matkul": "Mobile Computing",
+			"matkul": "Data Science",
 			"start": "13.00",
 			"end": "15.30",
-			"kode": "8402"
+			"kode": "8796"
 		},
 		{
-			"matkul": "Mobile Computing (Praktik)",
+			"matkul": "Data Science (Praktik)",
 			"start": "16.00",
 			"end": "17.40",
-			"kode": "8403"
+			"kode": "8797"
 		}
 	],
 	"tuesday": [
 		{
-			"matkul": "Computer Graphics",
-			"start": "11.00",
-			"end": "13.30",
-			"kode": "8396"
-		},
-		{
-			"matkul": "Computer Graphics (Praktik)",
-			"start": "14.00",
-			"end": "15.40",
-			"kode": "8397"
+			"matkul": "Cloud Computation Technology (Praktik)",
+			"start": "10.00",
+			"end": "11.40",
+			"kode": "8804"
 		}
 	],
 	"wednesday": [
 		{
-			"matkul": "Introduction to Mandarin",
-			"start": "09.00",
-			"end": "10.40",
-			"kode": "8535"
+			"matkul": "Cloud Computation Technology",
+			"start": "10.00",
+			"end": "12.30",
+			"kode": "8805"
 		},
 		{
-			"matkul": "Research Methodology for IT or IS",
-			"start": "11.00",
-			"end": "13.30",
-			"kode": "8393"
+			"matkul": "Human & Computer Tech Interaction",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8794"
 		}
 	],
 	"thursday": [
 		{
-			"matkul": "Fundamentals of Data Analysis",
+			"matkul": "Human & Computer Tech Interaction (P)",
 			"start": "13.00",
-			"end": "15.30",
-			"kode": "8394"
+			"end": "14.40",
+			"kode": "8795"
 		},
 		{
-			"matkul": "Fundamentals of Data Analysis (Praktik)",
-			"start": "16.00",
-			"end": "17.40",
-			"kode": "8395"
+			"matkul": "Professional Certification",
+			"start": "15.00",
+			"end": "17.30",
+			"kode": "8896"
 		}
 	],
 	"friday": [
 		{
-			"matkul": "Artificial Intelligence",
-			"start": "13.00",
-			"end": "15.30",
-			"kode": "8398"
+			"matkul": "Introduction to Life Science",
+			"start": "08.00",
+			"end": "09.40",
+			"kode": "8861"
 		},
 		{
-			"matkul": "Artificial Intelligence (Praktik)",
+			"matkul": "IT Project Management",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8798"
+		},
+		{
+			"matkul": "IT Project Management (P)",
 			"start": "16.00",
 			"end": "17.40",
-			"kode": "8399"
+			"kode": "8799"
 		}
 	],
 	"senin": [
 		{
-			"matkul": "Mobile Computing",
+			"matkul": "Data Science",
 			"start": "13.00",
 			"end": "15.30",
-			"kode": "8402"
+			"kode": "8796"
 		},
 		{
-			"matkul": "Mobile Computing (Praktik)",
+			"matkul": "Data Science (P)",
 			"start": "16.00",
 			"end": "17.40",
-			"kode": "8403"
+			"kode": "8797"
 		}
 	],
 	"selasa": [
 		{
-			"matkul": "Computer Graphics",
-			"start": "11.00",
-			"end": "13.30",
-			"kode": "8396"
-		},
-		{
-			"matkul": "Computer Graphics (Praktik)",
-			"start": "14.00",
-			"end": "15.40",
-			"kode": "8397"
+			"matkul": "Cloud Computation Technology (P)",
+			"start": "10.00",
+			"end": "11.40",
+			"kode": "8804"
 		}
 	],
 	"rabu": [
 		{
-			"matkul": "Introduction to Mandarin",
-			"start": "09.00",
-			"end": "10.40",
-			"kode": "8535"
+			"matkul": "Cloud Computation Technology",
+			"start": "10.00",
+			"end": "12.30",
+			"kode": "8805"
 		},
 		{
-			"matkul": "Research Methodology for IT or IS",
-			"start": "11.00",
-			"end": "13.30",
-			"kode": "8393"
+			"matkul": "Human & Computer Tech Interaction",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8794"
 		}
 	],
 	"kamis": [
 		{
-			"matkul": "Fundamentals of Data Analysis",
+			"matkul": "Human & Computer Tech Interaction (P)",
 			"start": "13.00",
-			"end": "15.30",
-			"kode": "8394"
+			"end": "14.40",
+			"kode": "8795"
 		},
 		{
-			"matkul": "Fundamentals of Data Analysis (Praktik)",
-			"start": "16.00",
-			"end": "17.40",
-			"kode": "8395"
+			"matkul": "Professional Certification",
+			"start": "15.00",
+			"end": "17.30",
+			"kode": "8896"
 		}
 	],
 	"jumat": [
 		{
-			"matkul": "Artificial Intelligence",
-			"start": "13.00",
-			"end": "15.30",
-			"kode": "8398"
+			"matkul": "Introduction to Life Science",
+			"start": "08.00",
+			"end": "09.40",
+			"kode": "8861"
 		},
 		{
-			"matkul": "Artificial Intelligence (Praktik)",
+			"matkul": "IT Project Management",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8798"
+		},
+		{
+			"matkul": "IT Project Management (P)",
 			"start": "16.00",
 			"end": "17.40",
-			"kode": "8399"
+			"kode": "8799"
 		}
 	]
 }

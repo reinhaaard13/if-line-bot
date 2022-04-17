@@ -176,13 +176,13 @@ def register_jobs():
             if not cron_time:
                 break
             day, hour, minute = map(passing, list(cron_time))
-            sched.add_job(lambda i=kelas: class_reminder(i,'start'), 'cron', hour=hour, minute=minute, day_of_week=day)
+            sched.add_job(lambda i=kelas: class_reminder(i,'start'), 'cron', week="*", day_of_week=day, hour=hour, minute=minute)
 
             # add job to scheduler (class end)
             cron_time = convert_cron(hari, kelas['end'], False)
             day, hour, minute = map(passing, list(cron_time))
             
-            sched.add_job(lambda i=kelas: class_reminder(i,'end'), 'cron', hour=hour, minute=minute, day_of_week=day)
+            sched.add_job(lambda i=kelas: class_reminder(i,'end'), 'cron', week="*", day_of_week=day, hour=hour, minute=minute)
             print(f"Job added {kelas['matkul']} ({kelas['start']} - {kelas['end']})")
 
 def class_reminder(kelas, condition):
