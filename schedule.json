@@ -1,0 +1,142 @@
+{
+	"monday": [
+		{
+			"matkul": "Mobile Computing",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8402"
+		},
+		{
+			"matkul": "Mobile Computing (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8403"
+		}
+	],
+	"tuesday": [
+		{
+			"matkul": "Computer Graphics",
+			"start": "11.00",
+			"end": "13.30",
+			"kode": "8396"
+		},
+		{
+			"matkul": "Computer Graphics (Praktik)",
+			"start": "14.00",
+			"end": "15.40",
+			"kode": "8397"
+		}
+	],
+	"wednesday": [
+		{
+			"matkul": "Introduction to Mandarin",
+			"start": "09.00",
+			"end": "10.40",
+			"kode": "8535"
+		},
+		{
+			"matkul": "Research Methodology for IT or IS",
+			"start": "11.00",
+			"end": "13.30",
+			"kode": "8393"
+		}
+	],
+	"thursday": [
+		{
+			"matkul": "Fundamentals of Data Analysis",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8394"
+		},
+		{
+			"matkul": "Fundamentals of Data Analysis (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8395"
+		}
+	],
+	"friday": [
+		{
+			"matkul": "Artificial Intelligence",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8398"
+		},
+		{
+			"matkul": "Artificial Intelligence (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8399"
+		}
+	],
+	"senin": [
+		{
+			"matkul": "Mobile Computing",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8402"
+		},
+		{
+			"matkul": "Mobile Computing (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8403"
+		}
+	],
+	"selasa": [
+		{
+			"matkul": "Computer Graphics",
+			"start": "11.00",
+			"end": "13.30",
+			"kode": "8396"
+		},
+		{
+			"matkul": "Computer Graphics (Praktik)",
+			"start": "14.00",
+			"end": "15.40",
+			"kode": "8397"
+		}
+	],
+	"rabu": [
+		{
+			"matkul": "Introduction to Mandarin",
+			"start": "09.00",
+			"end": "10.40",
+			"kode": "8535"
+		},
+		{
+			"matkul": "Research Methodology for IT or IS",
+			"start": "11.00",
+			"end": "13.30",
+			"kode": "8393"
+		}
+	],
+	"kamis": [
+		{
+			"matkul": "Fundamentals of Data Analysis",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8394"
+		},
+		{
+			"matkul": "Fundamentals of Data Analysis (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8395"
+		}
+	],
+	"jumat": [
+		{
+			"matkul": "Artificial Intelligence",
+			"start": "13.00",
+			"end": "15.30",
+			"kode": "8398"
+		},
+		{
+			"matkul": "Artificial Intelligence (Praktik)",
+			"start": "16.00",
+			"end": "17.40",
+			"kode": "8399"
+		}
+	]
+}
